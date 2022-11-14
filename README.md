@@ -35,8 +35,7 @@
 - 🤔 My interest lies in front-end web development, Deep Learning.
 - 💬 Ask me about Frontend, C++ , i'll try to help.
 - ⚡ Fun fact: I like solving puzzles.
-- 📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/-CrackerSystemKB@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:CrackerSystemKB@gmail.com)](CrackerSystemKB@gmail.com)
+- 📫 Contact Me or Just Say Hello: **crackersystemKB@gmail.com**
 
 ## <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 15px>  Lenguages
 <div align = "left">
