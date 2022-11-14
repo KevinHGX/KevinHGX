@@ -12,14 +12,19 @@
  </div>
 
 ----
+<!--
+<img src = "https://64.media.tumblr.com/84d78c278173efc1a647b5411cd194a7/tumblr_ml065uoVDr1rf78nfo1_400.gifv" align="right" >
+-->
 
-<img align = "right" src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/code.gif" width = 500px >
+<img src="https://media0.giphy.com/media/l0K3YRiYPTPSSIPrG/giphy.gif?cid=ecf05e47ih0hlz5jzo1tb684kfzgpw4zlhrpo1r3g1cjvdzm&rid=giphy.gif&ct=g" align="right" >
 
 <h3> About Me </h3>
 
-- 🤔 
-- 💬 Ask me about something, i'll try to help.
+- 🤔 My interest lies in front-end web development, Deep Learning.
+- 💬 Ask me about Frontend, C++ , i'll try to help.
+- ⚡ Fun fact: I like solving puzzles.
 - 📫 How to reach me:
+
   
 <h3> Languages </h3>
 <div align = "left">
@@ -30,7 +35,7 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
 </div>
     
- <h4> Currently Leraning </h4>
+ <h4> Currently Learning </h4>
    <div align = "left">
     <img src="https://img.shields.io/badge/Rust-FFF?style=for-the-badge&logo=rust&logoColor=black" /> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
