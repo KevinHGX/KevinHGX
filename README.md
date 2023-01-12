@@ -62,12 +62,12 @@
 </div>
 
 ----
-
+<!--
 ## <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 15px>  General Stats 
 <div align ="center">
     <img align="center" src = "https://github-readme-stats.vercel.app/api?username=KevinHGX&&show_icons=true&title_color=02D752&icon_color=bb2acf&text_color=b3b3ff&bg_color=0,000000,130F40">
 </div>
-
+-->
 ----
 
 
