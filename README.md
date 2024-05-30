@@ -6,12 +6,6 @@
   <a href="https://codepen.io/your-work/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"                          alt="https://codepen.io/your-work/" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/kevinhgxn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevinhgxn"             height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/kevin.badillomora/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"                           alt="https://www.facebook.com/kevin.badillomora/" height="30" width="40" />
-  </a>
   <a href="https://www.youtube.com/channel/UCWum2bBqzFHcX_lV_UCJdgg" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"                       alt="https://www.youtube.com/channel/ucwum2bbqzfhcx_lv_ucjdgg" height="30" width="40" />
   </a>
@@ -27,8 +21,6 @@
 <!--
 <img src = "https://64.media.tumblr.com/84d78c278173efc1a647b5411cd194a7/tumblr_ml065uoVDr1rf78nfo1_400.gifv" align="right" >
 -->
-
-<img src="https://media0.giphy.com/media/l0K3YRiYPTPSSIPrG/giphy.gif?cid=ecf05e47ih0hlz5jzo1tb684kfzgpw4zlhrpo1r3g1cjvdzm&rid=giphy.gif&ct=g" align="right" >
 
 ## <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 15px>  About Me 
 
